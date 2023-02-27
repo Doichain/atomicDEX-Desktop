@@ -2210,7 +2210,7 @@
   "DOI": {
     "coin": "DOI",
     "name": "Doichain",
-    "coinpaprika_id": "doi-doicoin",
+    "coinpaprika_id": "doi-doichain",
     "coingecko_id": "doichain",
     "nomics_id": "DOI",
     "electrum": [
